@@ -1,4 +1,4 @@
-# Regex tutorial on validating input for emails
+# Regex Tutorial on validating input for emails
 
 Regular expressions have the capability to identify specific character patterns within a string. Additionally, they enable the discovery and substitution of individual characters or character sequences within the string. These expressions are commonly employed for input validation purposes. In this case, the regular expression is designed to identify character patterns corresponding to valid email addresses.
 
